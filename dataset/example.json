@@ -1,0 +1,34 @@
+{
+  "entries": [
+    {
+      "term": "Aspergiloza",
+      "definition": "Grzybicza choroba układu oddechowego, często występująca u ptaków",
+      "category": "choroby i syndromy weterynaryjne",
+      "synonyms": ["aspergillosis", "grzybica kropidlakowa"]
+    },
+    {
+      "term": "Fenestralacja dysku",
+      "definition": "Chirurgiczne wykonanie otworu w dysku międzykręgowym",
+      "category": "procedury diagnostyczne i terapeutyczne",
+      "synonyms": ["fenestracja dysku"]
+    },
+    {
+      "term": "Worikonazol",
+      "definition": "Lek przeciwgrzybiczny używany w leczeniu inwazyjnych zakażeń grzybiczych",
+      "category": "farmakologia i substancje czynne",
+      "synonyms": ["voriconazole"]
+    },
+    {
+      "term": "Zatoka wątrobowa",
+      "definition": "Przestrzeń wypełniona krwią w wątrobie",
+      "category": "anatomia i fizjologia zwierząt",
+      "synonyms": ["zatoka żylna wątroby"]
+    },
+    {
+      "term": "Kleszczyki atraumatyczne",
+      "definition": "Narzędzie do delikatnego chwytania tkanek bez ich uszkodzenia",
+      "category": "sprzęt i akcesoria weterynaryjne",
+      "synonyms": ["kleszczyki atraumatic"]
+    }
+  ]
+}
